@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ikhtsgn.github.io/sitemap.ikhtsgn.gz
+Sitemap: https://ikhtsgn.github.io/app/sitemap.ikhtsgn.gz
+Sitemap: https://ikhtsgn.github.io/assets/sitemap.ikhtsgn.gz
+Sitemap: https://ikhtsgn.github.io/css/sitemap.ikhtsgn.gz
+Sitemap: https://ikhtsgn.github.io/data/sitemap.ikhtsgn.gz
+Sitemap: https://ikhtsgn.github.io/includes/sitemap.ikhtsgn.gz
+Sitemap: https://ikhtsgn.github.io/item/sitemap.ikhtsgn.gz
+Sitemap: https://ikhtsgn.github.io/src/sitemap.ikhtsgn.gz
